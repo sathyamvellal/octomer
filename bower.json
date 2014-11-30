@@ -1,0 +1,30 @@
+{
+  "name": "octomer",
+  "version": "0.0.1",
+  "homepage": "http://sathyamvellal.in/octomer",
+  "authors": [
+    "Sathyam Vellal <sathyam.vellal@gmail.com>"
+  ],
+  "description": "Polymer for Octopress",
+  "keywords": [
+    "Polymer",
+    "Material",
+    "Design",
+    "Octopress"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "source/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.5.1",
+    "core-elements": "Polymer/core-elements#~0.5.1",
+    "paper-elements": "Polymer/paper-elements#~0.5.1"
+  }
+}
